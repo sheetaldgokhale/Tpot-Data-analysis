@@ -19,3 +19,10 @@ The steps required to install T-Pot honeypot are as follows:
 7. Install type used is “T-Pot’s standard installation”
 
 To see the Logs from terminal (‘sudo su’ for root user) - The Tpot logs are stored in ‘data’ folder of respective honeypots
+
+![dashboa![dashboard 2](https://user-images.githubusercontent.com/73482919/114270179-9854dd80-9a28-11eb-8351-c480e1236105.png)
+![dashboard 3](https://user-images.githubusercontent.com/73482919/114270180-9d199180-9a28-11eb-9e57-f64329ffbc74.png)
+![dashboard 4](https://user-images.githubusercontent.com/73482919/114270183-a145af00-9a28-11eb-96f6-3e4826173934.png)
+![dashboard 6 Cowrie command input](https://user-images.githubusercontent.com/73482919/114270189-a9055380-9a28-11eb-8f79-ec13ade85c28.png)
+![dashboard 5](https://user-images.githubusercontent.com/73482919/114270193-adca0780-9a28-11eb-9e69-766a11751703.png)
+rd 1](https://user-images.githubusercontent.com/73482919/114270169-8b37ee80-9a28-11eb-80dd-12c3e232a786.png)
