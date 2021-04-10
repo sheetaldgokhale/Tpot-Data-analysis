@@ -20,6 +20,8 @@ The steps required to install T-Pot honeypot are as follows:
 
 To see the Logs from terminal (‘sudo su’ for root user) - The Tpot logs are stored in ‘data’ folder of respective honeypots
 
+The ELK stack included with tpot is useful for analysing logs. The images of the kibana dashbaord are shown below.
+
 ![dashboard 1](https://user-images.githubusercontent.com/73482919/114270212-c9cda900-9a28-11eb-86b6-bf6f217ea1ad.png)
 
 ![dashboard 2](https://user-images.githubusercontent.com/73482919/114270219-cf2af380-9a28-11eb-98e5-33dc222cf245.png)
